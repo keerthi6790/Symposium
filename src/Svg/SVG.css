@@ -1,0 +1,13 @@
+#Mountain{
+    position: relative;
+    bottom: -10px;
+}
+@media screen and (max-width:720px) {
+    #Hero{
+        width: 300px;
+        height: 270px;
+    }
+    #Mountain{
+        display: none;
+    }
+}
